@@ -153,6 +153,10 @@ img {
         margin-bottom: 2.2rem;
     }
 
+    h3{
+        padding-bottom: .5rem;
+    }
+
     .lessons .col{
         width: 100%;
     }
