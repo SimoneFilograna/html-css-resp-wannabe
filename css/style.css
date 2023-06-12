@@ -129,7 +129,7 @@ img {
  ************************************************/
 
 @media screen and (min-width: 769px) and(max-width: 1160px) {
-    .steps{
+    .container{
         width: 100%;
     }
 }
