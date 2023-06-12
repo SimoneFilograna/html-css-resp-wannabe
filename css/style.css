@@ -139,6 +139,7 @@ img {
     
 
     .row{
+        display: flex;
         flex-direction: column;
         align-items: center; 
     }
@@ -182,4 +183,26 @@ img {
         padding-left: 1rem;
         padding-right: 1rem;
     }
+
+    .why-us{
+        background-color: rgb(34, 34, 34);
+        margin-top: -3rem;
+        margin-bottom: -3rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+
+    .why-us .col-left{
+        width: 90%;
+        padding-bottom: 5rem;
+    }
+
+    .why-us .col-right{
+        width: 90%;
+    }
+
+    .col-right ul li{
+        padding-bottom: 1.2rem;
+    }
+
 }
