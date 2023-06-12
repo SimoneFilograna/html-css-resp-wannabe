@@ -128,7 +128,7 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
-@media screen and (min-width: 769) and(max-width: 1160px) {
+@media screen and (min-width: 769px) and(max-width: 1160px) {
     .steps{
         width: 100%;
     }
